@@ -1,2 +1,2 @@
-# fs-13
+# goit-hw-01
 Hello, World!
